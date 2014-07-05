@@ -1,0 +1,417 @@
+country_code: US
+full_name: Raleigh, NC
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-78.804183, 35.724578], [-78.804183, 35.9718611], [-78.497331, 35.9718611], [-78.497331, 35.724578]]]}, "contained_within": [], "full_name": "Raleigh, NC", "attributes": {}, "id": "161d2f18e3a0445a", "name": "Raleigh"}
+Matched state: NC
+country_code: US
+full_name: Florida, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.634643, 24.396308], [-87.634643, 31.001056], [-79.974307, 31.001056], [-79.974307, 24.396308]]]}, "contained_within": [], "full_name": "Florida, USA", "attributes": {}, "id": "4ec01c9dbc693497", "name": "Florida"}
+Matched state: FL
+country_code: US
+full_name: San Marcos, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/f95ca607d76de8c6.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.977456, 29.8485947], [-97.977456, 29.919461], [-97.8931647, 29.919461], [-97.8931647, 29.8485947]]]}, "contained_within": [], "full_name": "San Marcos, TX", "attributes": {}, "id": "f95ca607d76de8c6", "name": "San Marcos"}
+Matched state: TX
+country_code: US
+full_name: San Diego, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.282538, 32.541751], [-117.282538, 33.0804044], [-117.0051459, 33.0804044], [-117.0051459, 32.541751]]]}, "contained_within": [], "full_name": "San Diego, CA", "attributes": {}, "id": "a592bd6ceb1319f7", "name": "San Diego"}
+Matched state: CA
+country_code: US
+full_name: South Dakota, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/d06e595eb3733f42.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-104.05774, 42.479636], [-104.05774, 45.945379], [-96.43659, 45.945379], [-96.43659, 42.479636]]]}, "contained_within": [], "full_name": "South Dakota, USA", "attributes": {}, "id": "d06e595eb3733f42", "name": "South Dakota"}
+Matched state: SD
+country_code: US
+full_name: Tool, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/5eb056fe666f8218.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-96.2051726, 32.25983], [-96.2051726, 32.312916], [-96.1524, 32.312916], [-96.1524, 32.25983]]]}, "contained_within": [], "full_name": "Tool, TX", "attributes": {}, "id": "5eb056fe666f8218", "name": "Tool"}
+Matched state: TX
+country_code: US
+full_name: Los Angeles, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.668404, 33.704538], [-118.668404, 34.330724], [-118.155409, 34.330724], [-118.155409, 33.704538]]]}, "contained_within": [], "full_name": "Los Angeles, CA", "attributes": {}, "id": "3b77caf94bfc81fe", "name": "Los Angeles"}
+Matched state: CA
+country_code: US
+full_name: Georgia, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-85.605166, 30.355644], [-85.605166, 35.000771], [-80.742567, 35.000771], [-80.742567, 30.355644]]]}, "contained_within": [], "full_name": "Georgia, USA", "attributes": {}, "id": "7142eb97ae21e839", "name": "Georgia"}
+Matched state: GA
+country_code: US
+full_name: Nashville, TN
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/67eb74af40bb4766.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.054766, 35.967785], [-87.054766, 36.405496], [-86.515588, 36.405496], [-86.515588, 35.967785]]]}, "contained_within": [], "full_name": "Nashville, TN", "attributes": {}, "id": "67eb74af40bb4766", "name": "Nashville"}
+Matched state: TN
+country_code: US
+full_name: Minneapolis, MN
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-93.329148, 44.889964], [-93.329148, 45.051257], [-93.194578, 45.051257], [-93.194578, 44.889964]]]}, "contained_within": [], "full_name": "Minneapolis, MN", "attributes": {}, "id": "8e9665cec9370f0f", "name": "Minneapolis"}
+Matched state: MN
+country_code: US
+full_name: Paw Paw Lake, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/4df7b18f3b120d9a.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-86.304476, 42.188494], [-86.304476, 42.229293], [-86.243876, 42.229293], [-86.243876, 42.188494]]]}, "contained_within": [], "full_name": "Paw Paw Lake, MI", "attributes": {}, "id": "4df7b18f3b120d9a", "name": "Paw Paw Lake"}
+Matched state: MI
+country_code: US
+full_name: Kings Mountain, NC
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b7ebbde4bde7631b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.396773, 35.2170079], [-81.396773, 35.275339], [-81.313735, 35.275339], [-81.313735, 35.2170079]]]}, "contained_within": [], "full_name": "Kings Mountain, NC", "attributes": {}, "id": "b7ebbde4bde7631b", "name": "Kings Mountain"}
+Matched state: NC
+country_code: US
+full_name: Georgia, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-85.605166, 30.355644], [-85.605166, 35.000771], [-80.742567, 35.000771], [-80.742567, 30.355644]]]}, "contained_within": [], "full_name": "Georgia, USA", "attributes": {}, "id": "7142eb97ae21e839", "name": "Georgia"}
+Matched state: GA
+country_code: US
+full_name: Washington, DC
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.119401, 38.801826], [-77.119401, 38.99511], [-76.909396, 38.99511], [-76.909396, 38.801826]]]}, "contained_within": [], "full_name": "Washington, DC", "attributes": {}, "id": "01fbe706f872cb32", "name": "Washington"}
+Matched state: DC
+country_code: US
+full_name: Jacksonville, FL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/f539e3bb8cb7654b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.877937, 30.129667], [-81.877937, 30.502077], [-81.392952, 30.502077], [-81.392952, 30.129667]]]}, "contained_within": [], "full_name": "Jacksonville, FL", "attributes": {}, "id": "f539e3bb8cb7654b", "name": "Jacksonville"}
+Matched state: FL
+country_code: US
+full_name: Weymouth, MA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/69b7ed640da9394f.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.981, 42.135383], [-70.981, 42.263363], [-70.914583, 42.263363], [-70.914583, 42.135383]]]}, "contained_within": [], "full_name": "Weymouth, MA", "attributes": {}, "id": "69b7ed640da9394f", "name": "Weymouth"}
+Matched state: MA
+country_code: US
+full_name: New York, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.76259, 40.477383], [-79.76259, 45.015851], [-71.777492, 45.015851], [-71.777492, 40.477383]]]}, "contained_within": [], "full_name": "New York, USA", "attributes": {}, "id": "94965b2c45386f87", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: Atlanta, GA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.5464728, 33.647845], [-84.5464728, 33.8868859], [-84.289385, 33.8868859], [-84.289385, 33.647845]]]}, "contained_within": [], "full_name": "Atlanta, GA", "attributes": {}, "id": "8173485c72e78ca5", "name": "Atlanta"}
+Matched state: GA
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: Anaheim, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/0c2e6999105f8070.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.017789, 33.788913], [-118.017789, 33.880771], [-117.710516, 33.880771], [-117.710516, 33.788913]]]}, "contained_within": [], "full_name": "Anaheim, CA", "attributes": {}, "id": "0c2e6999105f8070", "name": "Anaheim"}
+Matched state: CA
+country_code: US
+full_name: Panama City Beach, FL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/9ebd5acfac2301ba.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-85.919575, 30.1650609], [-85.919575, 30.243937], [-85.7860766, 30.243937], [-85.7860766, 30.1650609]]]}, "contained_within": [], "full_name": "Panama City Beach, FL", "attributes": {}, "id": "9ebd5acfac2301ba", "name": "Panama City Beach"}
+Matched state: FL
+country_code: US
+full_name: Durham, NH
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/23e3200782822455.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.947737, 43.125512], [-70.947737, 43.155337], [-70.898277, 43.155337], [-70.898277, 43.125512]]]}, "contained_within": [], "full_name": "Durham, NH", "attributes": {}, "id": "23e3200782822455", "name": "Durham"}
+Matched state: NH
+country_code: US
+full_name: California, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-124.482003, 32.528832], [-124.482003, 42.009519], [-114.131212, 42.009519], [-114.131212, 32.528832]]]}, "contained_within": [], "full_name": "California, USA", "attributes": {}, "id": "fbd6d2f5a4e4a15e", "name": "California"}
+Matched state: CA
+country_code: US
+full_name: Seaside, OR
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/8ad14dccfa2e45e8.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-123.946961, 45.971918], [-123.946961, 46.017364], [-123.892487, 46.017364], [-123.892487, 45.971918]]]}, "contained_within": [], "full_name": "Seaside, OR", "attributes": {}, "id": "8ad14dccfa2e45e8", "name": "Seaside"}
+Matched state: OR
+country_code: US
+full_name: Pontiac, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/c13938f4ec2dd011.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.335007, 42.603793], [-83.335007, 42.699542], [-83.2478422, 42.699542], [-83.2478422, 42.603793]]]}, "contained_within": [], "full_name": "Pontiac, MI", "attributes": {}, "id": "c13938f4ec2dd011", "name": "Pontiac"}
+Matched state: MI
+country_code: US
+full_name: Sacramento, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-121.558212, 38.43792], [-121.558212, 38.670026], [-121.36317, 38.670026], [-121.36317, 38.43792]]]}, "contained_within": [], "full_name": "Sacramento, CA", "attributes": {}, "id": "b71fac2ee9792cbe", "name": "Sacramento"}
+Matched state: CA
+country_code: US
+full_name: Cherry Hill, NJ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/1b357768a8bf81a7.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.066171, 39.85935], [-75.066171, 39.954188], [-74.926935, 39.954188], [-74.926935, 39.85935]]]}, "contained_within": [], "full_name": "Cherry Hill, NJ", "attributes": {}, "id": "1b357768a8bf81a7", "name": "Cherry Hill"}
+Matched state: NJ
+country_code: US
+full_name: California, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-124.482003, 32.528832], [-124.482003, 42.009519], [-114.131212, 42.009519], [-114.131212, 32.528832]]]}, "contained_within": [], "full_name": "California, USA", "attributes": {}, "id": "fbd6d2f5a4e4a15e", "name": "California"}
+Matched state: CA
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: Paterson, NJ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/23a06e5cc6d83009.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.205822, 40.888642], [-74.205822, 40.941452], [-74.1297933, 40.941452], [-74.1297933, 40.888642]]]}, "contained_within": [], "full_name": "Paterson, NJ", "attributes": {}, "id": "23a06e5cc6d83009", "name": "Paterson"}
+Matched state: NJ
+country_code: US
+full_name: Phoenix, AZ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-112.312758, 33.290685], [-112.312758, 33.792463], [-111.925515, 33.792463], [-111.925515, 33.290685]]]}, "contained_within": [], "full_name": "Phoenix, AZ", "attributes": {}, "id": "5c62ffb0f0f3479d", "name": "Phoenix"}
+Matched state: AZ
+country_code: US
+full_name: Pennsylvania, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-80.519851, 39.719801], [-80.519851, 42.516072], [-74.689517, 42.516072], [-74.689517, 39.719801]]]}, "contained_within": [], "full_name": "Pennsylvania, USA", "attributes": {}, "id": "dd9c503d6c35364b", "name": "Pennsylvania"}
+Matched state: PA
+country_code: US
+full_name: Swissvale, PA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/23e4902f541fed6e.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.899268, 40.4115929], [-79.899268, 40.43494], [-79.867691, 40.43494], [-79.867691, 40.4115929]]]}, "contained_within": [], "full_name": "Swissvale, PA", "attributes": {}, "id": "23e4902f541fed6e", "name": "Swissvale"}
+Matched state: PA
+country_code: US
+full_name: Ohio, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.820272, 38.403186], [-84.820272, 42.327133], [-80.518626, 42.327133], [-80.518626, 38.403186]]]}, "contained_within": [], "full_name": "Ohio, USA", "attributes": {}, "id": "de599025180e2ee7", "name": "Ohio"}
+Matched state: OH
+country_code: US
+full_name: Missouri, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-95.774704, 35.995476], [-95.774704, 40.613641], [-89.098843, 40.613641], [-89.098843, 35.995476]]]}, "contained_within": [], "full_name": "Missouri, USA", "attributes": {}, "id": "2526edd24c06e60c", "name": "Missouri"}
+Matched state: MO
+country_code: US
+full_name: Bastrop, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/7d4a036b2ce1798b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.356937, 30.091973], [-97.356937, 30.132016], [-97.277272, 30.132016], [-97.277272, 30.091973]]]}, "contained_within": [], "full_name": "Bastrop, TX", "attributes": {}, "id": "7d4a036b2ce1798b", "name": "Bastrop"}
+Matched state: TX
+country_code: US
+full_name: Paradise, NV
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-115.208467, 35.990861], [-115.208467, 36.137145], [-115.059445, 36.137145], [-115.059445, 35.990861]]]}, "contained_within": [], "full_name": "Paradise, NV", "attributes": {}, "id": "8fa6d7a33b83ef26", "name": "Paradise"}
+Matched state: NV
+country_code: US
+full_name: Lynwood, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fcd177d5a0545c9c.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.230888, 33.905084], [-118.230888, 33.9454397], [-118.175869, 33.9454397], [-118.175869, 33.905084]]]}, "contained_within": [], "full_name": "Lynwood, CA", "attributes": {}, "id": "fcd177d5a0545c9c", "name": "Lynwood"}
+Matched state: CA
+country_code: US
+full_name: New Iberia, LA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/7d8e6592712895b9.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-91.8519106, 29.968257], [-91.8519106, 30.037187], [-91.778536, 30.037187], [-91.778536, 29.968257]]]}, "contained_within": [], "full_name": "New Iberia, LA", "attributes": {}, "id": "7d8e6592712895b9", "name": "New Iberia"}
+Matched state: LA
+country_code: US
+full_name: Surprise, AZ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/4894f2226f25db16.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-112.455012, 33.6093271], [-112.455012, 33.679776], [-112.298534, 33.679776], [-112.298534, 33.6093271]]]}, "contained_within": [], "full_name": "Surprise, AZ", "attributes": {}, "id": "4894f2226f25db16", "name": "Surprise"}
+Matched state: AZ
+country_code: US
+full_name: Los Angeles, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.668404, 33.704538], [-118.668404, 34.330724], [-118.155409, 34.330724], [-118.155409, 33.704538]]]}, "contained_within": [], "full_name": "Los Angeles, CA", "attributes": {}, "id": "3b77caf94bfc81fe", "name": "Los Angeles"}
+Matched state: CA
+country_code: US
+full_name: Virginia, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.67529, 36.540739], [-83.67529, 39.466012], [-75.16644, 39.466012], [-75.16644, 36.540739]]]}, "contained_within": [], "full_name": "Virginia, USA", "attributes": {}, "id": "5635c19c2b5078d1", "name": "Virginia"}
+Matched state: VA
+country_code: US
+full_name: California, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-124.482003, 32.528832], [-124.482003, 42.009519], [-114.131212, 42.009519], [-114.131212, 32.528832]]]}, "contained_within": [], "full_name": "California, USA", "attributes": {}, "id": "fbd6d2f5a4e4a15e", "name": "California"}
+Matched state: CA
+country_code: US
+full_name: Bristol, RI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/958003fe9e8c1af2.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-71.295591, 41.642203], [-71.295591, 41.714836], [-71.235287, 41.714836], [-71.235287, 41.642203]]]}, "contained_within": [], "full_name": "Bristol, RI", "attributes": {}, "id": "958003fe9e8c1af2", "name": "Bristol"}
+Matched state: RI
+country_code: US
+full_name: Nevada, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-120.00574, 35.002086], [-120.00574, 42.002208], [-114.039649, 42.002208], [-114.039649, 35.002086]]]}, "contained_within": [], "full_name": "Nevada, USA", "attributes": {}, "id": "d374fb61a20fb74f", "name": "Nevada"}
+Matched state: NV
+country_code: US
+full_name: Maryland, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.487651, 37.886607], [-79.487651, 39.723622], [-74.986286, 39.723622], [-74.986286, 37.886607]]]}, "contained_within": [], "full_name": "Maryland, USA", "attributes": {}, "id": "dea1eac2d7ef8878", "name": "Maryland"}
+Matched state: MD
+country_code: US
+full_name: Scottsboro, AL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/639bb2fb92904efd.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-86.079587, 34.597525], [-86.079587, 34.695664], [-85.995355, 34.695664], [-85.995355, 34.597525]]]}, "contained_within": [], "full_name": "Scottsboro, AL", "attributes": {}, "id": "639bb2fb92904efd", "name": "Scottsboro"}
+Matched state: AL
+country_code: US
+full_name: Madison, AL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/6f1f0ea4554abc81.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-86.7870735, 34.618274], [-86.7870735, 34.757117], [-86.699405, 34.757117], [-86.699405, 34.618274]]]}, "contained_within": [], "full_name": "Madison, AL", "attributes": {}, "id": "6f1f0ea4554abc81", "name": "Madison"}
+Matched state: AL
+country_code: US
+full_name: Ridgeland, MS
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/78439f3b905720e3.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-90.179801, 32.3993514], [-90.179801, 32.448639], [-90.067498, 32.448639], [-90.067498, 32.3993514]]]}, "contained_within": [], "full_name": "Ridgeland, MS", "attributes": {}, "id": "78439f3b905720e3", "name": "Ridgeland"}
+Matched state: MS
+country_code: US
+full_name: Hollywood, FL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/2bc7c264a080898b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-80.248845, 25.9862018], [-80.248845, 26.093132], [-80.107808, 26.093132], [-80.107808, 25.9862018]]]}, "contained_within": [], "full_name": "Hollywood, FL", "attributes": {}, "id": "2bc7c264a080898b", "name": "Hollywood"}
+Matched state: FL
+country_code: US
+full_name: Portland, OR
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-122.786424, 45.421863], [-122.786424, 45.622529], [-122.471751, 45.622529], [-122.471751, 45.421863]]]}, "contained_within": [], "full_name": "Portland, OR", "attributes": {}, "id": "ac88a4f17a51c7fc", "name": "Portland"}
+Matched state: OR
+country_code: US
+full_name: South Carolina, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.353955, 32.04683], [-83.353955, 35.215449], [-78.499301, 35.215449], [-78.499301, 32.04683]]]}, "contained_within": [], "full_name": "South Carolina, USA", "attributes": {}, "id": "6057f1e35bcc6c20", "name": "South Carolina"}
+Matched state: SC
+country_code: US
+full_name: North Wildwood, NJ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b5b2c52a73d5032d.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.818126, 38.987649], [-74.818126, 39.024867], [-74.785822, 39.024867], [-74.785822, 38.987649]]]}, "contained_within": [], "full_name": "North Wildwood, NJ", "attributes": {}, "id": "b5b2c52a73d5032d", "name": "North Wildwood"}
+Matched state: NJ
+country_code: US
+full_name: San Carlos Park, FL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/46bf69ae15f33611.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.845887, 26.452722], [-81.845887, 26.492899], [-81.797192, 26.492899], [-81.797192, 26.452722]]]}, "contained_within": [], "full_name": "San Carlos Park, FL", "attributes": {}, "id": "46bf69ae15f33611", "name": "San Carlos Park"}
+Matched state: FL
+country_code: US
+full_name: Sterling Heights, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/23e0af972b9a2e8e.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.091535, 42.534811], [-83.091535, 42.6278028], [-82.969611, 42.6278028], [-82.969611, 42.534811]]]}, "contained_within": [], "full_name": "Sterling Heights, MI", "attributes": {}, "id": "23e0af972b9a2e8e", "name": "Sterling Heights"}
+Matched state: MI
+country_code: US
+full_name: Saginaw Township South, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/0e26d5c859741e60.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.049043, 43.392371], [-84.049043, 43.437327], [-83.994497, 43.437327], [-83.994497, 43.392371]]]}, "contained_within": [], "full_name": "Saginaw Township South, MI", "attributes": {}, "id": "0e26d5c859741e60", "name": "Saginaw Township South"}
+Matched state: MI
+country_code: US
+full_name: Ohio, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.820272, 38.403186], [-84.820272, 42.327133], [-80.518626, 42.327133], [-80.518626, 38.403186]]]}, "contained_within": [], "full_name": "Ohio, USA", "attributes": {}, "id": "de599025180e2ee7", "name": "Ohio"}
+Matched state: OH
+country_code: US
+full_name: Jersey City, NJ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b046074b1030a44d.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.107995, 40.666879], [-74.107995, 40.769124], [-74.026972, 40.769124], [-74.026972, 40.666879]]]}, "contained_within": [], "full_name": "Jersey City, NJ", "attributes": {}, "id": "b046074b1030a44d", "name": "Jersey City"}
+Matched state: NJ
+country_code: US
+full_name: Glendale, AZ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/1b0326723c1ddc73.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-112.358867, 33.507961], [-112.358867, 33.699695], [-112.151505, 33.699695], [-112.151505, 33.507961]]]}, "contained_within": [], "full_name": "Glendale, AZ", "attributes": {}, "id": "1b0326723c1ddc73", "name": "Glendale"}
+Matched state: AZ
+country_code: US
+full_name: San Antonio, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-98.72476, 29.298525], [-98.72476, 29.661054], [-98.311046, 29.661054], [-98.311046, 29.298525]]]}, "contained_within": [], "full_name": "San Antonio, TX", "attributes": {}, "id": "3df4f427b5a60fea", "name": "San Antonio"}
+Matched state: TX
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: Lynchburg, VA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/2490949a68631669.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.257789, 37.332496], [-79.257789, 37.469415], [-79.100237, 37.469415], [-79.100237, 37.332496]]]}, "contained_within": [], "full_name": "Lynchburg, VA", "attributes": {}, "id": "2490949a68631669", "name": "Lynchburg"}
+Matched state: VA
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: New Jersey, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/65b4760a2b411e11.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.563587, 38.788657], [-75.563587, 41.357424], [-73.88506, 41.357424], [-73.88506, 38.788657]]]}, "contained_within": [], "full_name": "New Jersey, USA", "attributes": {}, "id": "65b4760a2b411e11", "name": "New Jersey"}
+Matched state: NJ
+country_code: US
+full_name: Pickerington, OH
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3995cc1483801d24.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-82.796999, 39.870343], [-82.796999, 39.934955], [-82.735418, 39.934955], [-82.735418, 39.870343]]]}, "contained_within": [], "full_name": "Pickerington, OH", "attributes": {}, "id": "3995cc1483801d24", "name": "Pickerington"}
+Matched state: OH
+country_code: US
+full_name: San Diego, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.282538, 32.541751], [-117.282538, 33.0804044], [-117.0051459, 33.0804044], [-117.0051459, 32.541751]]]}, "contained_within": [], "full_name": "San Diego, CA", "attributes": {}, "id": "a592bd6ceb1319f7", "name": "San Diego"}
+Matched state: CA
+country_code: US
+full_name: Wichita Falls, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b980515f617707a9.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-98.6104381, 33.836017], [-98.6104381, 33.99593], [-98.425777, 33.99593], [-98.425777, 33.836017]]]}, "contained_within": [], "full_name": "Wichita Falls, TX", "attributes": {}, "id": "b980515f617707a9", "name": "Wichita Falls"}
+Matched state: TX
+country_code: US
+full_name: Los Angeles, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.668404, 33.704538], [-118.668404, 34.330724], [-118.155409, 34.330724], [-118.155409, 33.704538]]]}, "contained_within": [], "full_name": "Los Angeles, CA", "attributes": {}, "id": "3b77caf94bfc81fe", "name": "Los Angeles"}
+Matched state: CA
+country_code: US
+full_name: Binghamton, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/859b7f1502db8fe9.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.95015, 42.071716], [-75.95015, 42.131517], [-75.860807, 42.131517], [-75.860807, 42.071716]]]}, "contained_within": [], "full_name": "Binghamton, NY", "attributes": {}, "id": "859b7f1502db8fe9", "name": "Binghamton"}
+Matched state: NY
+country_code: US
+full_name: Alabama, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-88.473228, 30.144425], [-88.473228, 35.008029], [-84.888247, 35.008029], [-84.888247, 30.144425]]]}, "contained_within": [], "full_name": "Alabama, USA", "attributes": {}, "id": "288de3df481163e8", "name": "Alabama"}
+Matched state: AL
+country_code: US
+full_name: Two Harbors, MN
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/46b2d2aa9921e914.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-91.699046, 47.017273], [-91.699046, 47.036631], [-91.659715, 47.036631], [-91.659715, 47.017273]]]}, "contained_within": [], "full_name": "Two Harbors, MN", "attributes": {}, "id": "46b2d2aa9921e914", "name": "Two Harbors"}
+Matched state: MN
+country_code: US
+full_name: Indiana, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-88.097892, 37.771743], [-88.097892, 41.761368], [-84.78458, 41.761368], [-84.78458, 37.771743]]]}, "contained_within": [], "full_name": "Indiana, USA", "attributes": {}, "id": "1010ecfa7d3a40f8", "name": "Indiana"}
+Matched state: IN
+country_code: US
+full_name: New York, NY
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.04725, 40.541722], [-74.04725, 40.91533], [-73.699793, 40.91533], [-73.699793, 40.541722]]]}, "contained_within": [], "full_name": "New York, NY", "attributes": {}, "id": "27485069891a7938", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: New York, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.76259, 40.477383], [-79.76259, 45.015851], [-71.777492, 45.015851], [-71.777492, 40.477383]]]}, "contained_within": [], "full_name": "New York, USA", "attributes": {}, "id": "94965b2c45386f87", "name": "New York"}
+Matched state: NY
+country_code: US
+full_name: Tysons Corner, VA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/ca12dbe04543ea95.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.265228, 38.898565], [-77.265228, 38.934481], [-77.196534, 38.934481], [-77.196534, 38.898565]]]}, "contained_within": [], "full_name": "Tysons Corner, VA", "attributes": {}, "id": "ca12dbe04543ea95", "name": "Tysons Corner"}
+Matched state: VA
+country_code: US
+full_name: Weslaco, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/f664c6f63c0bef35.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-98.016934, 26.12604], [-98.016934, 26.1990389], [-97.949802, 26.1990389], [-97.949802, 26.12604]]]}, "contained_within": [], "full_name": "Weslaco, TX", "attributes": {}, "id": "f664c6f63c0bef35", "name": "Weslaco"}
+Matched state: TX
+country_code: US
+full_name: West Bloomfield Township, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/93b9db5989615417.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.441942, 42.52605], [-83.441942, 42.617858], [-83.32039, 42.617858], [-83.32039, 42.52605]]]}, "contained_within": [], "full_name": "West Bloomfield Township, MI", "attributes": {}, "id": "93b9db5989615417", "name": "West Bloomfield Township"}
+Matched state: MI
+country_code: US
+full_name: Chandler, AZ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/52445186970bafb3.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-111.972849, 33.2037607], [-111.972849, 33.36114], [-111.788898, 33.36114], [-111.788898, 33.2037607]]]}, "contained_within": [], "full_name": "Chandler, AZ", "attributes": {}, "id": "52445186970bafb3", "name": "Chandler"}
+Matched state: AZ
+country_code: US
+full_name: Downey, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/07dccb89e8f25a8f.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.1704294, 33.90245], [-118.1704294, 33.972897], [-118.090423, 33.972897], [-118.090423, 33.90245]]]}, "contained_within": [], "full_name": "Downey, CA", "attributes": {}, "id": "07dccb89e8f25a8f", "name": "Downey"}
+Matched state: CA
+country_code: US
+full_name: North Myrtle Beach, SC
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/e5797011cad97adf.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-78.754529, 33.78899], [-78.754529, 33.855789], [-78.596, 33.855789], [-78.596, 33.78899]]]}, "contained_within": [], "full_name": "North Myrtle Beach, SC", "attributes": {}, "id": "e5797011cad97adf", "name": "North Myrtle Beach"}
+Matched state: SC
+country_code: US
+full_name: Georgia, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-85.605166, 30.355644], [-85.605166, 35.000771], [-80.742567, 35.000771], [-80.742567, 30.355644]]]}, "contained_within": [], "full_name": "Georgia, USA", "attributes": {}, "id": "7142eb97ae21e839", "name": "Georgia"}
+Matched state: GA
+country_code: US
+full_name: Washington, DC
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.119401, 38.801826], [-77.119401, 38.99511], [-76.909396, 38.99511], [-76.909396, 38.801826]]]}, "contained_within": [], "full_name": "Washington, DC", "attributes": {}, "id": "01fbe706f872cb32", "name": "Washington"}
+Matched state: DC
+country_code: US
+full_name: Michigan, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-90.418136, 41.696088], [-90.418136, 48.306272], [-82.122971, 48.306272], [-82.122971, 41.696088]]]}, "contained_within": [], "full_name": "Michigan, USA", "attributes": {}, "id": "67d92742f1ebf307", "name": "Michigan"}
+Matched state: MI
+country_code: US
+full_name: Virginia, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.67529, 36.540739], [-83.67529, 39.466012], [-75.16644, 39.466012], [-75.16644, 36.540739]]]}, "contained_within": [], "full_name": "Virginia, USA", "attributes": {}, "id": "5635c19c2b5078d1", "name": "Virginia"}
+Matched state: VA
+country_code: US
+full_name: San Diego, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.282538, 32.541751], [-117.282538, 33.0804044], [-117.0051459, 33.0804044], [-117.0051459, 32.541751]]]}, "contained_within": [], "full_name": "San Diego, CA", "attributes": {}, "id": "a592bd6ceb1319f7", "name": "San Diego"}
+Matched state: CA
+country_code: US
+full_name: Irving, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/dce44ec49eb788f5.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.034184, 32.777825], [-97.034184, 32.950503], [-96.888782, 32.950503], [-96.888782, 32.777825]]]}, "contained_within": [], "full_name": "Irving, TX", "attributes": {}, "id": "dce44ec49eb788f5", "name": "Irving"}
+Matched state: TX
+country_code: US
+full_name: Chicago, IL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.940033, 41.644102], [-87.940033, 42.0230669], [-87.52401, 42.0230669], [-87.52401, 41.644102]]]}, "contained_within": [], "full_name": "Chicago, IL", "attributes": {}, "id": "1d9a5370a355ab0c", "name": "Chicago"}
+Matched state: IL
+country_code: US
+full_name: Winnfield, LA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/29e6586ffe24db96.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-92.660847, 31.903438], [-92.660847, 31.946355], [-92.617123, 31.946355], [-92.617123, 31.903438]]]}, "contained_within": [], "full_name": "Winnfield, LA", "attributes": {}, "id": "29e6586ffe24db96", "name": "Winnfield"}
+Matched state: LA
+country_code: US
+full_name: Texarkana, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b33bfb7f88f92c6c.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-94.144448, 33.355819], [-94.144448, 33.507099], [-93.968823, 33.507099], [-93.968823, 33.355819]]]}, "contained_within": [], "full_name": "Texarkana, TX", "attributes": {}, "id": "b33bfb7f88f92c6c", "name": "Texarkana"}
+Matched state: TX
+country_code: US
+full_name: Detroit, MI
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.288056, 42.255085], [-83.288056, 42.450488], [-82.91052, 42.450488], [-82.91052, 42.255085]]]}, "contained_within": [], "full_name": "Detroit, MI", "attributes": {}, "id": "b463d3bd6064861b", "name": "Detroit"}
+Matched state: MI
+country_code: US
+full_name: Pasadena, TX
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3e82edc94d5c5ce1.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-95.2345801, 29.557817], [-95.2345801, 29.725467], [-94.982797, 29.725467], [-94.982797, 29.557817]]]}, "contained_within": [], "full_name": "Pasadena, TX", "attributes": {}, "id": "3e82edc94d5c5ce1", "name": "Pasadena"}
+Matched state: TX
+country_code: US
+full_name: Jacksonville, FL
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/f539e3bb8cb7654b.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.877937, 30.129667], [-81.877937, 30.502077], [-81.392952, 30.502077], [-81.392952, 30.129667]]]}, "contained_within": [], "full_name": "Jacksonville, FL", "attributes": {}, "id": "f539e3bb8cb7654b", "name": "Jacksonville"}
+Matched state: FL
+country_code: US
+full_name: Costa Mesa, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/2f97b9acb13ca665.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.954201, 33.625179], [-117.954201, 33.702038], [-117.85709, 33.702038], [-117.85709, 33.625179]]]}, "contained_within": [], "full_name": "Costa Mesa, CA", "attributes": {}, "id": "2f97b9acb13ca665", "name": "Costa Mesa"}
+Matched state: CA
+country_code: US
+full_name: California, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-124.482003, 32.528832], [-124.482003, 42.009519], [-114.131212, 42.009519], [-114.131212, 32.528832]]]}, "contained_within": [], "full_name": "California, USA", "attributes": {}, "id": "fbd6d2f5a4e4a15e", "name": "California"}
+Matched state: CA
+country_code: US
+full_name: Sea Isle City, NJ
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/eb5407ed483c0579.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.7169082, 39.119461], [-74.7169082, 39.183287], [-74.669969, 39.183287], [-74.669969, 39.119461]]]}, "contained_within": [], "full_name": "Sea Isle City, NJ", "attributes": {}, "id": "eb5407ed483c0579", "name": "Sea Isle City"}
+Matched state: NJ
+country_code: US
+full_name: California, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-124.482003, 32.528832], [-124.482003, 42.009519], [-114.131212, 42.009519], [-114.131212, 32.528832]]]}, "contained_within": [], "full_name": "California, USA", "attributes": {}, "id": "fbd6d2f5a4e4a15e", "name": "California"}
+Matched state: CA
+country_code: US
+full_name: Ohio, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.820272, 38.403186], [-84.820272, 42.327133], [-80.518626, 42.327133], [-80.518626, 38.403186]]]}, "contained_within": [], "full_name": "Ohio, USA", "attributes": {}, "id": "de599025180e2ee7", "name": "Ohio"}
+Matched state: OH
+country_code: US
+full_name: North Carolina, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.32187, 33.752879], [-84.32187, 36.588118], [-75.40012, 36.588118], [-75.40012, 33.752879]]]}, "contained_within": [], "full_name": "North Carolina, USA", "attributes": {}, "id": "3b98b02fba3f9753", "name": "North Carolina"}
+Matched state: NC
+country_code: US
+full_name: Newport Beach, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/0ce4c27ce26030aa.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.9582193, 33.584086], [-117.9582193, 33.671658], [-117.839771, 33.671658], [-117.839771, 33.584086]]]}, "contained_within": [], "full_name": "Newport Beach, CA", "attributes": {}, "id": "0ce4c27ce26030aa", "name": "Newport Beach"}
+Matched state: CA
+country_code: US
+full_name: South Bend, IN
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/20a70247c3cbdd23.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-86.346272, 41.603597], [-86.346272, 41.744955], [-86.196439, 41.744955], [-86.196439, 41.603597]]]}, "contained_within": [], "full_name": "South Bend, IN", "attributes": {}, "id": "20a70247c3cbdd23", "name": "South Bend"}
+Matched state: IN
+country_code: US
+full_name: Montana, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/d2ddff69682ae534.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-116.050004, 44.35821], [-116.050004, 49.00139], [-104.039563, 49.00139], [-104.039563, 44.35821]]]}, "contained_within": [], "full_name": "Montana, USA", "attributes": {}, "id": "d2ddff69682ae534", "name": "Montana"}
+Matched state: MT
+country_code: US
+full_name: San Diego, CA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json", "country": "United States", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.282538, 32.541751], [-117.282538, 33.0804044], [-117.0051459, 33.0804044], [-117.0051459, 32.541751]]]}, "contained_within": [], "full_name": "San Diego, CA", "attributes": {}, "id": "a592bd6ceb1319f7", "name": "San Diego"}
+Matched state: CA
+country_code: US
+full_name: Florida, USA
+{"country_code": "US", "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json", "country": "United States", "place_type": "admin", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.634643, 24.396308], [-87.634643, 31.001056], [-79.974307, 31.001056], [-79.974307, 24.396308]]]}, "contained_within": [], "full_name": "Florida, USA", "attributes": {}, "id": "4ec01c9dbc693497", "name": "Florida"}
+Matched state: FL
+NV
