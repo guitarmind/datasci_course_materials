@@ -171,12 +171,12 @@ def processHappiestState(tweet_file, sentiTable):
                 happiestStateAvgSentiment = avgSentiment
                 happiestState = state
 
-        print state
-        print "avgSentiment: ", avgSentiment
+        # print state
+        # print "avgSentiment: ", avgSentiment
 
     # print out happiest state for grading
     print happiestState
-    print "happiestStateAvgSentiment: ", happiestStateAvgSentiment
+    # print "happiestStateAvgSentiment: ", happiestStateAvgSentiment
 
 
 def main():
